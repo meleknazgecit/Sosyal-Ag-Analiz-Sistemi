@@ -35,16 +35,16 @@ Kullanıcının etkisi hesaplanır.
 
 **Örnek Çıktı**
 
--Arkadaslarini analiz etmek istediginiz kullanici ID'sini girin: 103
--Kullanici ID: 103
--Mesafe 1 arkadaslar: 101 104
--Mesafe 2 arkadaslar: 105
--Kullanici etkisi: 3
--Ortak arkadas analizi icin ikinci ID'yi girin: 104
--Ortak Arkadaslari Bulunan ID'ler (103 104):
--Ortak arkadas sayisi: 0
--Topluluk tespitine geciliyor:
--Topluluk: 103 101 105 102 106 104
+*Arkadaslarini analiz etmek istediginiz kullanici ID'sini girin: 103
+*Kullanici ID: 103
+*Mesafe 1 arkadaslar: 101 104
+*Mesafe 2 arkadaslar: 105
+*Kullanici etkisi: 3
+*Ortak arkadas analizi icin ikinci ID'yi girin: 104
+*Ortak Arkadaslari Bulunan ID'ler (103 104):
+*Ortak arkadas sayisi: 0
+*Topluluk tespitine geciliyor:
+*Topluluk: 103 101 105 102 106 104
 
 ## Veri Seti Yapısı
 Program, kullanıcıları ve arkadaşlık ilişkilerini veriseti.txt adlı dosyadan okur. Örnek bir veri seti aşağıdaki gibidir:
